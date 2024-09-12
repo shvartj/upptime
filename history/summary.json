@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shvartzberg.com.ico",
     "slug": "personal",
     "status": "down",
-    "uptime": "91.91%",
-    "uptimeDay": "65.83%",
-    "uptimeWeek": "91.91%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "91.91%",
+    "uptime": "74.32%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "74.32%",
+    "uptimeMonth": "74.32%",
+    "uptimeYear": "74.32%",
     "time": 377,
     "timeDay": 0,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-09-11": 20,
+      "2024-09-12": 20,
+      "2024-09-11": 1440,
       "2024-09-10": 472
     }
   }
