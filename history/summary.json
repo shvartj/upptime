@@ -4,7 +4,7 @@
     "url": "https://www.shvartzberg.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shvartzberg.com.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 444,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2024-09-12": 923,
       "2024-09-11": 1440,
       "2024-09-10": 472
